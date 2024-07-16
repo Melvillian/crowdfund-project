@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+# IDE
+.vscode/
+
+# Foundry
+.gas-snapshot
+report/
+lcov.info
